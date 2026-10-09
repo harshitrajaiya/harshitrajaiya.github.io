@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# Published Papers
+# Published and Conditionally Accepted Papers
 
 **Recent Developments in the FinTech Industry**  
 _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_  
@@ -36,6 +36,13 @@ _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_
 
 ---
 
+**How Does Innovation Success Affect Corporate Payout Policies**  
+_single-authored_  
+*Journal of Financial Stability (Conditionally Accepted)*<br>
+[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283166)
+
+---
+
 # Working Papers
 
 **How Do Online Employee Ratings Affect External Firm Financing? Evidence from Glassdoor**  
@@ -60,13 +67,6 @@ _with Thomas J. Chemmanur, Karthik Krishnan, and Pinshuo Wang_
 Conferences: Northern Finance Association 2023; MFA 2024; FIRS 2024, ISB CAF 2025  
 Media: [*Columbia Law School Blue Sky Blog*](https://clsbluesky.law.columbia.edu/2022/11/23/does-student-loan-forgiveness-have-significant-benefits-for-the-economy/)<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240607)
-
----
-
-**How Does Innovation Success Affect Corporate Payout Policies**  
-_single-authored_  
-Conferences: FMA 2022; DIFE 2023; Birkbeck, University of London; University of Ottawa<br>
-[📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283166)
 
 ---
 
