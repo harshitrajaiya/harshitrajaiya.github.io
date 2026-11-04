@@ -38,7 +38,7 @@ _with Thomas J. Chemmanur, Michael Imerman, and Qianqian Yu_
 
 **How Does Innovation Success Affect Corporate Payout Policies**  
 _single-authored_  
-*Journal of Financial Stability (Conditionally Accepted)*<br>
+*Journal of Financial Stability (Accepted)*<br>
 [📄 View Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283166)
 
 ---
